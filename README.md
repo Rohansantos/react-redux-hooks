@@ -1,3 +1,4 @@
+This is a project that I made to start learning about ReactJS and also with redux hooks. Such a amazing tool to make things easy.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
